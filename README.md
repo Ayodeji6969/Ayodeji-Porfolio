@@ -47,8 +47,9 @@ The goal of this project was to analyze customer demographics and lifestyle data
 - **Commute Distance Analysis** – Reveals how distance to work impacts likelihood of owning a bike.  
 - **Regional Breakdown** – Compares bike purchase patterns across Europe, North America, and Pacific.  
 
-> 📌 Add screenshots of your dashboard here:  
-> ![Bike Buyers Dashboard](./dashboard_screenshot.png)
+  
+
+![Visualization](https://github.com/user-attachments/assets/052bb7f6-b42a-4c75-8d90-43067f80acf2)
 
 ---
 
